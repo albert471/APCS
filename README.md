@@ -3,4 +3,4 @@ Some Assignments from my AP Computer Science Class.  These are mainly here to sh
 
 Some of the larger projects are Life (game of life), Cannonball, and CRCoinReturner
 
-All of the code is in Java, and I used BlueJ for the most part when completing these assignments. I have uploaded the local copies of any projects I had on my computer; since we submitted our code electronically, this may not be the most updated list of assignments or versions of all the files.
+All of the code is in Java, and I used BlueJ for the most part when completing these assignments. I have uploaded the local copies of some of the projects I had on my computer; since we submitted our code electronically, this may not be the most updated versions of all the files.
