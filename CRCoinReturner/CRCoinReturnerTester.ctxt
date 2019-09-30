@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CRCoinReturnerTester
+comment0.text=\r\n\ The\ CRCoinReturner\ tester\ tests\ the\ CRCoinReturner\ cash\ register\ \r\n\ class,\ which\ is\ able\ to\ return\ specific\ Coin\ objects\ as\ change.\r\n\ \r\n\ @author\ Richard\ White\ \r\n\ @version\ 2017-01-30\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

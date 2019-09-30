@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=Board()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Board\r\n
+comment2.params=size
+comment2.target=Board(int)
+comment3.params=sizex\ sizey
+comment3.target=Board(int,\ int)
+comment4.params=board
+comment4.target=void\ genBoard(Board)
+comment5.params=x\ y
+comment5.target=int\ getPosition(int,\ int)
+comment6.params=x\ y\ value
+comment6.target=void\ setPosition(int,\ int,\ int)
+comment7.params=
+comment7.target=int\ getXLength()
+comment8.params=
+comment8.target=int\ getYLength()
+comment9.params=
+comment9.target=void\ print()
+numComments=10

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Point
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x\ y
+comment2.target=Point(double,\ double)
+comment3.params=a\ b
+comment3.target=void\ move(double,\ double)
+comment4.params=a\ b
+comment4.target=void\ setLocation(double,\ double)
+comment5.params=
+comment5.target=double\ getX()
+comment6.params=
+comment6.target=double\ getY()
+comment7.params=r
+comment7.target=double\ distance(Point)
+numComments=8
